@@ -55,5 +55,6 @@ public class App
 
     public static void server(){
         System.out.println( "server1" );
+        System.out.println( "server2" );
     }
 }
