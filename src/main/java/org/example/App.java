@@ -50,5 +50,6 @@ public class App
 
     public static void client(){
         System.out.println( "client1" );
+        System.out.println( "client2" );
     }
 }
