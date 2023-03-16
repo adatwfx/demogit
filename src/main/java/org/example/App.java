@@ -44,5 +44,6 @@ public class App
         System.out.println( "test11" );
         System.out.println( "test12" );
         System.out.println( "test13" );
+        System.out.println( "master1" );
     }
 }
