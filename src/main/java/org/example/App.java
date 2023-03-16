@@ -52,4 +52,8 @@ public class App
         System.out.println( "client1" );
         System.out.println( "client2" );
     }
+
+    public static void server(){
+        System.out.println( "server1" );
+    }
 }
