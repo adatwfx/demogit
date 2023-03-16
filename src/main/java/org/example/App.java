@@ -47,4 +47,8 @@ public class App
         System.out.println( "master1" );
         System.out.println( "master2" );
     }
+
+    public static void client(){
+        System.out.println( "client1" );
+    }
 }
