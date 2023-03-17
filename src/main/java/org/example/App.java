@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        System.out.println( "issue8" );
         System.out.println( "issue7" );
         System.out.println( "issue6" );
         System.out.println( "issue5" );
