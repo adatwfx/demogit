@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
+        System.out.println( "issue10-2" );
+        System.out.println( "issue10-1" );
         System.out.println( "C5" );
         System.out.println( "issue8" );
         System.out.println( "issue7" );
